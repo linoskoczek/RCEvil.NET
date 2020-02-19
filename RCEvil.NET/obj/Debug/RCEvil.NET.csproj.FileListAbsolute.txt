@@ -1,0 +1,8 @@
+C:\Users\user\Downloads\RCEvil.NET-master\RCEvil.NET-master\RCEvil.NET\bin\Debug\RCEvil.NET.exe.config
+C:\Users\user\Downloads\RCEvil.NET-master\RCEvil.NET-master\RCEvil.NET\bin\Debug\RCEvil.NET.exe
+C:\Users\user\Downloads\RCEvil.NET-master\RCEvil.NET-master\RCEvil.NET\bin\Debug\RCEvil.NET.pdb
+C:\Users\user\Downloads\RCEvil.NET-master\RCEvil.NET-master\RCEvil.NET\bin\Debug\NDesk.Options.dll
+C:\Users\user\Downloads\RCEvil.NET-master\RCEvil.NET-master\RCEvil.NET\obj\Debug\RCEvil.NET.csprojAssemblyReference.cache
+C:\Users\user\Downloads\RCEvil.NET-master\RCEvil.NET-master\RCEvil.NET\obj\Debug\RCEvil.NET.csproj.CopyComplete
+C:\Users\user\Downloads\RCEvil.NET-master\RCEvil.NET-master\RCEvil.NET\obj\Debug\RCEvil.NET.exe
+C:\Users\user\Downloads\RCEvil.NET-master\RCEvil.NET-master\RCEvil.NET\obj\Debug\RCEvil.NET.pdb
